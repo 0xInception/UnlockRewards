@@ -57,9 +57,8 @@ watcher.OnLeagueClient += async (clientWatcher, client) =>
                     }),Encoding.UTF8,"application/json"));
         }
     }
-    Console.WriteLine("Done!");
+    Console.WriteLine("Done! Please delete the files if u are done.");
     Console.ReadLine();
-    Environment.Exit(0);
 };
 Console.WriteLine("Waiting for league client!");
 await watcher.Observe(token.Token);
