@@ -17,4 +17,5 @@ You gain reputation points from doing missions or playing games (aram,2v2v2v2v2 
 I don't know, please delete the files after use if you decide to use it! (The .zip aswell)
 
 ## Showcase
-![image](https://github.com/0xInception/UnlockRewards/assets/70986768/06b398da-61df-446c-8d76-c29ea635c52f)
+![image](https://github.com/0xInception/UnlockRewards/assets/70986768/d3d160e0-6d0d-415d-a2b1-c3b4443d7440)
+
