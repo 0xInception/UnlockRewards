@@ -1,6 +1,12 @@
 # UnlockRewards
 This is a very simple tool that unlocks tournament of souls rewards.
 
+## Where can I download it?
+[RELEASES](https://github.com/0xInception/UnlockRewards/releases/tag/v1)
+
+## Why is the name notepad?
+Minimal effort way of avoiding detection by riot
+
 ## Will this unlock every reward?
 Each reward requires a specific amount of reputation points, to unlock all of them you need a minimum of 90 reputation points
 
